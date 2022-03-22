@@ -26,7 +26,7 @@ def index():
 
 # %%
 if __name__ == "__main__":  # to ensure that it is this program running in the cloud
-    app.run(host="127.0.0.1", port=int("80"))
+    app.run()
 
 
 # %%
